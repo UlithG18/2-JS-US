@@ -24,3 +24,5 @@ It provides a simple interactive interface using `prompt`, `alert`, and `console
 ### Purpose
 
 Practice conditional logic, loops, user input validation, `Set` operations, and browser storage, all in a menu-driven application.
+
+*Page: https://ulithg18.github.io/2-JS-US/*
